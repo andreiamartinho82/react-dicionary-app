@@ -13,7 +13,8 @@ function App() {
           <Dictionary />
         </main>
 
-        <footer className="footer">Coded by Andreia Martinho</footer>
+        <footer className="footer">
+          <a href="https://github.com/andreiamartinho82/react-dicionary-app" target="_blank">Coded by Andreia Martinho</a></footer>
 
       </div>
      </div>
