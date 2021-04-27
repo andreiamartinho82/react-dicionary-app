@@ -15,7 +15,9 @@ if (props.results){
                 return (
                     <div key={index}>
                         <Meaning meaning={meaning}/>
-                    </div>
+                  
+                    
+                   </div>   
                 );
             })}
 
