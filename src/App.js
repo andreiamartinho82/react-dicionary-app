@@ -14,7 +14,7 @@ function App() {
         </main>
 
         <footer className="footer">
-          <a href="https://github.com/andreiamartinho82/react-dicionary-app" target="_blank">Coded by Andreia Martinho</a></footer>
+          <a href="https://github.com/andreiamartinho82/react-dicionary-app" target="_blank" rel="noreferrer">Coded by Andreia Martinho</a></footer>
 
       </div>
      </div>
