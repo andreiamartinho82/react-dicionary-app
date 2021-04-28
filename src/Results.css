@@ -1,0 +1,13 @@
+.Results {
+  margin-left: 30px;
+  color: rgb(255, 242, 240);
+}
+
+.Results h2 {
+  font: 36px;
+  font-weight: bold;
+  line-height: 1.6;
+  text-transform: capitalize;
+  color: rgb(148, 147, 147);
+  margin-bottom: 0%;
+}
