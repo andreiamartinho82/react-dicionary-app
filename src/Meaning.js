@@ -9,13 +9,13 @@ return (
     {props.meaning.definitions.map(function(definition, index){
         return(
         <div key={index}>
-            <p>
+            <div>
               <span className="definition"> {definition.definition}</span>
             <br/>
             <span className="example">Example: <em>{definition.example}</em></span>
            <br/>
                 <Synonyms synonyms={definition.synonyms}/>
-            </p>
+            </div>
         </div>
 
         );

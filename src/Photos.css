@@ -1,0 +1,6 @@
+.Photos img {
+  border-radius: 8px;
+  box-shadow: 1px 1px 1px 1px #918484;
+  opacity: 0.9;
+  margin-bottom: 20px;
+}
